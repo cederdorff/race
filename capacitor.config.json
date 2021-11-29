@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RACE",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
