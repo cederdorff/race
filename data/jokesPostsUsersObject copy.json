@@ -1,4 +1,46 @@
 {
+  "jokes": {
+    "-J1Abcdefg123": {
+      "content": "Why did the JavaScript developer go broke? Because he lost his prototypes!",
+      "createdAt": 1687215634430,
+      "uid": "ZfPTVEMQKf9vhNiUh0bj"
+    },
+    "-J1Xyz987pqr": {
+      "content": "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!",
+      "createdAt": 1687615634430,
+      "uid": "fTs84KRoYw5pRZEWCq2Z"
+    },
+    "-J2Def456stu": {
+      "content": "Why did the UI designer quit his job? Because he lost his sense of direction!",
+      "createdAt": 1687015634430,
+      "uid": "fjpRTRTjZHwrq3tTLHri"
+    },
+    "-J3Ghi789vwx": {
+      "content": "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!",
+      "createdAt": 1687615704430,
+      "uid": "pqzGY1MnHYm3I4Ca79Xn"
+    },
+    "-J4Jkl012yzA": {
+      "content": "Why don't programmers like nature? It has too many bugs!",
+      "createdAt": 1677605634430,
+      "uid": "HlvRHr58C05guOLl64k5"
+    },
+    "-J5Mno123pqr": {
+      "content": "Why did the developer go broke? Because he used up all his cache!",
+      "createdAt": 1687165634430,
+      "uid": "ZfPTVEMQKf9vhNiUh0bj"
+    },
+    "-J6Stu456vwx": {
+      "content": "Why did the software engineer go broke? Because he lost his java!",
+      "createdAt": 1687611054440,
+      "uid": "HlvRHr58C05guOLl64k5"
+    },
+    "-J7Vwx789yza": {
+      "content": "Why did the designer break up with the developer? Because he couldn't commit!",
+      "createdAt": 1667615134430,
+      "uid": "fjpRTRTjZHwrq3tTLHri"
+    }
+  },
   "posts": {
     "-M1Abcdefg123": {
       "caption": "Beautiful sunset at the beach",

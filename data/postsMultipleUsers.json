@@ -40,7 +40,11 @@
       "caption": "A beautiful morning in Aarhus",
       "createdAt": 1687611054440,
       "image": "https://images.unsplash.com/photo-1573997953524-efed43db70a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
-      "createdBy": ["HlvRHr58C05guOLl64k5", "pqzGY1MnHYm3I4Ca79Xn", "fjpRTRTjZHwrq3tTLHri"]
+      "createdBy": [
+        "HlvRHr58C05guOLl64k5",
+        "pqzGY1MnHYm3I4Ca79Xn",
+        "fjpRTRTjZHwrq3tTLHri"
+      ]
     },
     "-M7Vwx789yza": {
       "caption": "Rainbow reflections of the city of Aarhus",
@@ -57,7 +61,7 @@
       "title": "Senior Lecturer"
     },
     "fTs84KRoYw5pRZEWCq2Z": {
-      "image": "https://share.cederdorff.dk/images/race.jpg",
+      "image": "https://share.cederdorff.dk/images/race.webp",
       "mail": "race@eaaa.dk",
       "name": "Rasmus Cederdorff",
       "title": "Senior Lecturer"
