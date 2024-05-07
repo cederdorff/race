@@ -161,5 +161,24 @@
       "latitude": 50.6680936,
       "longitude": 4.6015327
     }
+  },
+  {
+    "id": "-LuVwx709yza",
+    "caption": "The Canals of Bruges",
+    "createdAt": 1815108073533,
+    "image": "https://images.unsplash.com/photo-1516396374642-2913ae68b261?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "user": {
+      "id": "XavNcr99C05erOLd0011",
+      "image": "https://media.licdn.com/dms/image/C5603AQGj27BmPuRx-w/profile-displayphoto-shrink_800_800/0/1516923169166?e=1720656000&v=beta&t=GfyLWvAUOCDfoRkgMmabXbRXYHjrRDq_sXnctdoj0WI",
+      "mail": "x.dubruille@ephec.be",
+      "name": "Xavier Dubruille",
+      "title": "Professor of Computer Science"
+    },
+    "location": {
+      "city": "Bruges",
+      "country": "Belgium",
+      "latitude": 51.213041,
+      "longitude": 3.2176382
+    }
   }
 ]
