@@ -173,7 +173,7 @@
   {
     "id": "-Bruwx799ges",
     "caption": "The Canals of Bruges",
-    "createdAt": 1815108073533,
+    "createdAt": 1811108073533,
     "image": "https://images.unsplash.com/photo-1516396374642-2913ae68b261?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "user": {
       "id": "XavNcr99C05erOLd0011",
@@ -187,6 +187,44 @@
       "country": "Belgium",
       "latitude": 51.213041,
       "longitude": 3.2176382
+    }
+  },
+  {
+    "id": "-Coffx222cup",
+    "caption": "Morning coffee in the city center of Louvain-la-Neuve",
+    "createdAt": 1815108073533,
+    "image": "https://images.unsplash.com/photo-1638283901702-fc71176fd1e9?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "user": {
+      "id": "fTs84KRoYw5pRZEWCq2Z",
+      "image": "https://share.cederdorff.dk/images/race.webp",
+      "mail": "race@eaaa.dk",
+      "name": "Rasmus Cederdorff",
+      "title": "Senior Lecturer"
+    },
+    "location": {
+      "city": "Louvain-la-Neuve",
+      "country": "Belgium",
+      "latitude": 50.6668897,
+      "longitude": 4.6171037
+    }
+  },
+  {
+    "id": "-Canex459ian",
+    "caption": "Beautiful views of the canal in Dinat",
+    "createdAt": 1805108073533,
+    "image": "https://images.unsplash.com/photo-1491557345352-5929e343eb89?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "user": {
+      "id": "nlvRcr44C05kuOLl66k5",
+      "image": "https://media.licdn.com/dms/image/C5603AQFhKmICBwsvGQ/profile-displayphoto-shrink_800_800/0/1516340106169?e=1720656000&v=beta&t=Bp4vrQ6oPVl_VnQzRFPgXFunIimI3CVsl9B0ArJVpZw",
+      "mail": "nick.romanidis@senecapolytechnic.ca",
+      "name": "Nick Romanidis",
+      "title": "Software Engineer & Professor"
+    },
+    "location": {
+      "city": "Dinat",
+      "country": "Belgium",
+      "latitude": 50.256598,
+      "longitude": 4.898503
     }
   }
 ]
