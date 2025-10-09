@@ -343,7 +343,7 @@
     "id": 21,
     "title": "Scrabble",
     "description": "Klassisk ordspil hvor man bygger ord på et bræt.",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/games/scrabble.png",
+    "image": "images/games/scrabble.png",
     "genre": "Ordspil",
     "playtime": 60,
     "players": { "min": 2, "max": 4 },
