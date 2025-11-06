@@ -185,5 +185,16 @@
     "image": "https://m.media-amazon.com/images/M/MV5BYTQ3ZDdlOTQtZjRlZS00OTVmLWIxMTItYjYwMWQyOTE0YjNkXkEyXkFqcGc@._V1_.jpg",
     "actors": ["Anders Matthesen"],
     "description": "Ternet Ninja vender tilbage for at hjælpe Aske og vennerne i et nyt, hæsblæsende eventyr."
+  },
+  {
+    "id": 18,
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "director": "James Cameron",
+    "rating": 7.8,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY3NjY3Nl5BMl5BanBnXkFtZTgwODc1MTUwNzM@._V1_.jpg",
+    "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+    "description": "Jake Sully and Neytiri lead the Na'vi against a new threat to their home."
   }
 ]
