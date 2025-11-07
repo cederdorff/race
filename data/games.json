@@ -368,7 +368,7 @@
     "rating": 4.0,
     "age": 7,
     "difficulty": "Let",
-    "location": "Aalborg",
+    "location": "Vestergade",
     "shelf": "V2",
     "available": true,
     "rules": "Spillerne trækker kort indtil nogen trækker et Exploding Kitten og taber, medmindre de har et Defuse-kort. Brug handlingskort til at undgå at trække Exploding Kittens. Strategiske kort kan ændre spillets gang og hjælpe dig med at overleve. Brug See The Future kort til at se de næste kort. Skip kort lader dig springe din tur over. Attack kort tvinger næste spiller til at tage to ture. Den sidste spiller tilbage vinder!"
@@ -385,7 +385,7 @@
     "rating": 4.3,
     "age": 15,
     "difficulty": "Mellem",
-    "location": "Kolding",
+    "location": "Vestergade",
     "shelf": "W5",
     "available": true,
     "rules": "Hold eller enkeltspillere vælger kategorier og besvarer spørgsmål. Brug Bezzer-brikker til at stjæle point fra modstandere eller Zwap-brikker til at bytte kategorier. Taktik er lige så vigtigt som viden. Flyt din brik fremad baseret på rigtige svar. Vælg strategisk mellem dine stærke og svage kategorier. Bezzer en modstander hvis du tror de svarer forkert. Zwap kategorier for at få bedre emner. Første til målet vinder!"
@@ -402,7 +402,7 @@
     "rating": 4.2,
     "age": 18,
     "difficulty": "Let",
-    "location": "Fredensgade",
+    "location": "Vestergade",
     "shelf": "X8",
     "available": true,
     "rules": "En spiller læser et spørgsmålskort op, og de andre vælger deres sjoveste svarkort. Spilleren vælger det bedste svar, og vinderen får et point. Morsomt og upassende for voksne. Hver runde har en ny dommer der vælger vinderkortet. Vælg dine svar baseret på dommerens humor. Sort, dansk humor er central for spillet. Spillet fortsætter indtil én spiller har vundet et aftalt antal point. Perfekt til fester!"
