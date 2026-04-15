@@ -1,56 +1,56 @@
 [
   {
     "id": "ZfPTVEMQKf9vhNiUh0bj",
-    "image": "images/users/mlbe.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mlbe.webp",
     "mail": "mlbe@eaaa.dk",
     "name": "Maria Louise Bendixen",
     "title": "Senior Lecturer"
   },
   {
     "id": "fTs84KRoYw5pRZEWCq2Z",
-    "image": "images/users/race.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/race.webp",
     "mail": "race@eaaa.dk",
     "name": "Rasmus Cederdorff",
     "title": "Senior Lecturer"
   },
   {
     "id": "gCs33KRoYg5pRZEWCq8J",
-    "image": "images/users/bki.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/bki.webp",
     "mail": "bki@eaaa.dk",
     "name": "Birgitte Kirk Iversen",
     "title": "Senior Lecturer"
   },
   {
     "id": "fjpRTRTjZHwrq3tTLHri",
-    "image": "images/users/anki.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/anki.webp",
     "mail": "anki@eaaa.dk",
     "name": "Anne Kirketerp",
     "title": "Head of Department"
   },
   {
     "id": "pqzGY1MnHYm3I4Ca79Xn",
-    "image": "images/users/lskj.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/lskj.webp",
     "mail": "lskj@eaaa.dk",
     "name": "Line Skjødt",
     "title": "Senior Lecturer & Internship Coordinator"
   },
   {
     "id": "HlvRHr58C05guOLl64k5",
-    "image": "images/users/dob.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/dob.webp",
     "mail": "dob@eaaa.dk",
     "name": "Dan Okkels Brendstrup",
     "title": "Senior Lecturer"
   },
   {
     "id": "MlvJJr83C55auHLl64s7",
-    "image": "images/users/mnor.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mnor.webp",
     "mail": "mnor@eaaa.dk",
     "name": "Martin Aagaard Nøhr",
     "title": "Lecturer"
   },
   {
     "id": "NlvKKr84D66bvIMm75t8",
-    "image": "images/users/laes.webp",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/laes.webp",
     "mail": "laes@eaaa.dk",
     "name": "Lars Bøge Eskildsen",
     "title": "Senior Lecturer"
