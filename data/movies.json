@@ -185,5 +185,16 @@
     "image": "https://m.media-amazon.com/images/M/MV5BYTQ3ZDdlOTQtZjRlZS00OTVmLWIxMTItYjYwMWQyOTE0YjNkXkEyXkFqcGc@._V1_.jpg",
     "actors": ["Anders Matthesen"],
     "description": "Ternet Ninja vender tilbage for at hjælpe Aske og vennerne i et nyt, hæsblæsende eventyr."
+  },
+  {
+    "id": 18,
+    "title": "The Batman",
+    "year": 2022,
+    "genre": ["Action", "Crime", "Drama"],
+    "director": "Matt Reeves",
+    "rating": 7.8,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg",
+    "actors": ["Robert Pattinson", "Zoë Kravitz", "Colin Farrell"],
+    "description": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues."
   }
 ]
