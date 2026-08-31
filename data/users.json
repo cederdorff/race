@@ -46,7 +46,7 @@
     "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mnor.webp",
     "mail": "mnor@eaaa.dk",
     "name": "Martin Aagaard Nøhr",
-    "title": "Lecturer"
+    "title": "Senior Lecturer"
   },
   {
     "id": "NlvKKr84D66bvIMm75t8",
@@ -54,5 +54,12 @@
     "mail": "laes@eaaa.dk",
     "name": "Lars Bøge Eskildsen",
     "title": "Senior Lecturer"
+  },
+  {
+    "id": "NKKrt43r84D16vIMm731",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/nkkr.webp",
+    "mail": "nkkr@eaaa.dk",
+    "name": "Nikolaj Krogh Kjær-Rasmussen",
+    "title": "Lecturer"
   }
 ]
