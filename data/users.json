@@ -61,5 +61,19 @@
     "mail": "nkkr@eaaa.dk",
     "name": "Nikolaj Krogh Kjær-Rasmussen",
     "title": "Lecturer"
+  },
+  {
+    "id": "esCqSNWJAhF7jWnf1xHm",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/magl.webp",
+    "mail": "magl@eaaa.dk",
+    "name": "Magnus Lindholm Nielsen",
+    "title": "Lecturer"
+  },
+  {
+    "id": "3yKC4mH4AS87tEDY8qx0",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/heoe.webp",
+    "mail": "heoe@eaaa.dk",
+    "name": "Henrik Kristian Ulrik Øllgaard",
+    "title": "Senior Lecturer"
   }
 ]
