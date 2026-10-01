@@ -1,16 +1,44 @@
 [
   {
-    "id": "ZfPTVEMQKf9vhNiUh0bj",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mlbe.webp",
-    "mail": "mlbe@eaaa.dk",
-    "name": "Maria Louise Bendixen",
+    "id": "HlvRHr58C05guOLl64k5",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/dob.webp",
+    "mail": "dob@eaaa.dk",
+    "name": "Dan Okkels Brendstrup",
     "title": "Senior Lecturer"
+  },
+  {
+    "id": "esCqSNWJAhF7jWnf1xHm",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/magl.webp",
+    "mail": "magl@eaaa.dk",
+    "name": "Magnus Lindholm Nielsen",
+    "title": "Lecturer"
+  },
+  {
+    "id": "3yKC4mH4AS87tEDY8qx0",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/heoe.webp",
+    "mail": "heoe@eaaa.dk",
+    "name": "Henrik Kristian Ulrik Øllgaard",
+    "title": "Senior Lecturer"
+  },
+  {
+    "id": "NKKrt43r84D16vIMm731",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/nkkr.webp",
+    "mail": "nkkr@eaaa.dk",
+    "name": "Nikolaj Krogh Kjær-Rasmussen",
+    "title": "Lecturer"
   },
   {
     "id": "fTs84KRoYw5pRZEWCq2Z",
     "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/race.webp",
     "mail": "race@eaaa.dk",
     "name": "Rasmus Cederdorff",
+    "title": "Senior Lecturer"
+  },
+  {
+    "id": "ZfPTVEMQKf9vhNiUh0bj",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mlbe.webp",
+    "mail": "mlbe@eaaa.dk",
+    "name": "Maria Louise Bendixen",
     "title": "Senior Lecturer"
   },
   {
@@ -35,13 +63,6 @@
     "title": "Senior Lecturer & Internship Coordinator"
   },
   {
-    "id": "HlvRHr58C05guOLl64k5",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/dob.webp",
-    "mail": "dob@eaaa.dk",
-    "name": "Dan Okkels Brendstrup",
-    "title": "Senior Lecturer"
-  },
-  {
     "id": "MlvJJr83C55auHLl64s7",
     "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mnor.webp",
     "mail": "mnor@eaaa.dk",
@@ -53,27 +74,6 @@
     "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/laes.webp",
     "mail": "laes@eaaa.dk",
     "name": "Lars Bøge Eskildsen",
-    "title": "Senior Lecturer"
-  },
-  {
-    "id": "NKKrt43r84D16vIMm731",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/nkkr.webp",
-    "mail": "nkkr@eaaa.dk",
-    "name": "Nikolaj Krogh Kjær-Rasmussen",
-    "title": "Lecturer"
-  },
-  {
-    "id": "esCqSNWJAhF7jWnf1xHm",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/magl.webp",
-    "mail": "magl@eaaa.dk",
-    "name": "Magnus Lindholm Nielsen",
-    "title": "Lecturer"
-  },
-  {
-    "id": "3yKC4mH4AS87tEDY8qx0",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/heoe.webp",
-    "mail": "heoe@eaaa.dk",
-    "name": "Henrik Kristian Ulrik Øllgaard",
     "title": "Senior Lecturer"
   }
 ]
