@@ -35,17 +35,17 @@
     "title": "Senior Lecturer"
   },
   {
-    "id": "ZfPTVEMQKf9vhNiUh0bj",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mlbe.webp",
-    "mail": "mlbe@eaaa.dk",
-    "name": "Maria Louise Bendixen",
+    "id": "NlvKKr84D66bvIMm75t8",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/laes.webp",
+    "mail": "laes@eaaa.dk",
+    "name": "Lars Bøge Eskildsen",
     "title": "Senior Lecturer"
   },
   {
-    "id": "gCs33KRoYg5pRZEWCq8J",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/bki.webp",
-    "mail": "bki@eaaa.dk",
-    "name": "Birgitte Kirk Iversen",
+    "id": "MlvJJr83C55auHLl64s7",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mnor.webp",
+    "mail": "mnor@eaaa.dk",
+    "name": "Martin Aagaard Nøhr",
     "title": "Senior Lecturer"
   },
   {
@@ -56,6 +56,13 @@
     "title": "Head of Department"
   },
   {
+    "id": "gCs33KRoYg5pRZEWCq8J",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/bki.webp",
+    "mail": "bki@eaaa.dk",
+    "name": "Birgitte Kirk Iversen",
+    "title": "Senior Lecturer"
+  },
+  {
     "id": "pqzGY1MnHYm3I4Ca79Xn",
     "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/lskj.webp",
     "mail": "lskj@eaaa.dk",
@@ -63,17 +70,10 @@
     "title": "Senior Lecturer & Internship Coordinator"
   },
   {
-    "id": "MlvJJr83C55auHLl64s7",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mnor.webp",
-    "mail": "mnor@eaaa.dk",
-    "name": "Martin Aagaard Nøhr",
-    "title": "Senior Lecturer"
-  },
-  {
-    "id": "NlvKKr84D66bvIMm75t8",
-    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/laes.webp",
-    "mail": "laes@eaaa.dk",
-    "name": "Lars Bøge Eskildsen",
+    "id": "ZfPTVEMQKf9vhNiUh0bj",
+    "image": "https://raw.githubusercontent.com/cederdorff/race/master/images/users/mlbe.webp",
+    "mail": "mlbe@eaaa.dk",
+    "name": "Maria Louise Bendixen",
     "title": "Senior Lecturer"
   }
 ]
