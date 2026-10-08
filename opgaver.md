@@ -51,8 +51,8 @@ Løsningerne er beskrevet i README'en til [`express-rest-api-students`](https://
 | Opgave | Løsning |
 | --- | --- |
 | [Hello Node.js](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/hello-node.md) | — |
-| [Hello HTTP Module](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/hello-http-module.md) | — |
-| [Hello Express.js](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/hello-express.md) | — |
+| [Hello HTTP Module](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/hello-http-module.md) | [`hello-http-module`](https://github.com/cederdorff/hello-http-module) |
+| [Hello Express.js](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/hello-express.md) | [`node-express-todos-rest-api`](https://github.com/cederdorff/node-express-todos-rest-api) |
 | [Node.js File System](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/node-file-system.md) | — |
 | [Express Users & Posts API](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/express-users-posts-api.md) | — |
 
@@ -68,14 +68,23 @@ Demo-repo fra undervisningen: [`node-express-rest-todos`](https://github.com/ced
 
 ## MDU-E25IXD · 3. semester IxD (efterår 2026)
 
-Materialet ligger i [`mdu-e25ixd/undervisning/`](https://github.com/cederdorff/mdu-e25ixd/tree/main/undervisning).
+Materialet ligger i [`mdu-e25ixd/undervisning/`](https://github.com/cederdorff/mdu-e25ixd/tree/main/undervisning). Case 1 i Product Optimization bygger på startprojektet [`mellemrum`](https://github.com/cederdorff/mellemrum). Til hver lektion er der eksempler og løsninger som branches i [`post-app-supabase`](https://github.com/cederdorff/post-app-supabase), som de studerende kender fra 2. semester.
 
-| Opgave | Starter | Løsning / eksempler |
-| --- | --- | --- |
-| [Case 1 · Fra prototype til produktionsklar React-løsning](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/case-1-casebrief.md) | [`mellemrum`](https://github.com/cederdorff/mellemrum) (udleveret prototype, også branch `feature/mellemrum-case-starter`) | Ingen løsning. Eksempler fra lektionerne ligger som branches i [`post-app-supabase`](https://github.com/cederdorff/post-app-supabase): `refactor/architecture`, `refactor/react-styling`, `refactor/react-a11y`, `error-handling-and-ui-states`, `posts-and-users`, `feature/performance-examples` |
-| [Teknisk audit-skabelon](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/teknisk-audit-skabelon.md) | — | — |
-| [JavaScript for React](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/js-concepts.md) | — | — |
-| [Eksamensbeskrivelse](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/eksamensbeskrivelse.md) | — | — |
+### Product Optimization
+
+| Lektion | Opgave / materiale | Starter | Løsning / eksempler |
+| --- | --- | --- | --- |
+| RACE 02 · [JavaScript for React](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/race-02-2026-08-21-javascript-for-react.md) | [JavaScript-koncepter til React](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/js-concepts.md) | — | — |
+| RACE 03 · [Case 1 kick-off, fejlhåndtering og UI-states](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/race-03-2026-08-25-case-1-kick-off-fejlhaandtering-og-robuste-ui-states.md) | [Case 1 · Fra prototype til produktionsklar React-løsning](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/case-1-casebrief.md) | [`mellemrum`](https://github.com/cederdorff/mellemrum) (også branch `feature/mellemrum-case-starter`) | Ingen løsning (casen afleveres) |
+| RACE 04 · [Arkitektur, styling og accessibility](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/race-04-2026-08-26-case-1-arkitektur-styling-og-accessibility.md) | Case 1 | `mellemrum` | Branches i `post-app-supabase`: [`refactor/architecture`](https://github.com/cederdorff/post-app-supabase/tree/refactor/architecture), [`refactor/react-styling`](https://github.com/cederdorff/post-app-supabase/tree/refactor/react-styling), [`refactor/react-a11y`](https://github.com/cederdorff/post-app-supabase/tree/refactor/react-a11y) |
+| RACE 05 · [Datamodellering, relationer og Supabase](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/race-05-2026-09-01-case-1-datamodellering-relationer-og-supabase.md) | Case 1 | `mellemrum` | `post-app-supabase`: [`main`](https://github.com/cederdorff/post-app-supabase) (enkel `posts`-model), [`posts-with-duplicated-user-data`](https://github.com/cederdorff/post-app-supabase/tree/posts-with-duplicated-user-data), [`posts-and-users`](https://github.com/cederdorff/post-app-supabase/tree/posts-and-users) (relation) |
+| RACE 06 · [Performance, Lighthouse og videre arbejde](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/race-06-2026-09-02-case-1-performance-lighthouse-og-videre-arbejde.md) | Case 1 | `mellemrum` | `post-app-supabase`: [`posts-and-users`](https://github.com/cederdorff/post-app-supabase/tree/posts-and-users), [`feature/select-post-user`](https://github.com/cederdorff/post-app-supabase/tree/feature/select-post-user), [`feature/performance-examples`](https://github.com/cederdorff/post-app-supabase/tree/feature/performance-examples) |
+| RACE 07 · [Portfolio og faglig dokumentation](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/race-07-2026-10-12-portfolio-og-faglig-dokumentation.md) | Guide: [Hold dit Supabase-projekt i live med GitHub Actions](https://github.com/cederdorff/post-app-supabase/blob/main/docs/supabase-keep-alive.md). Skal sættes op i hvert repo med Supabase | — | — |
+| Hele forløbet | [Teknisk audit-skabelon](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/teknisk-audit-skabelon.md) · [Eksamensbeskrivelse](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/eksamensbeskrivelse.md) | — | — |
+
+### Dynamic User Interface
+
+Lektionerne [RACE 08–18](https://github.com/cederdorff/mdu-e25ixd/tree/main/undervisning/dynamic-user-interface) (26-10 til 03-12) linker endnu ikke til opgaver eller repos.
 
 ---
 
@@ -192,6 +201,8 @@ Vejledninger, som flere forløb bruger. De er ikke opgaver.
 | Repo | Løser | Hvordan |
 | --- | --- | --- |
 | [`node-express-ejs-client-server-app`](https://github.com/cederdorff/node-express-ejs-client-server-app) | AMAbot 1–8 (WU-E26A) og ældre chatbot-øvelser | `solve-…`-branches |
+| [`hello-http-module`](https://github.com/cederdorff/hello-http-module) | Hello HTTP Module (WU-E26A) | `main` |
+| [`node-express-todos-rest-api`](https://github.com/cederdorff/node-express-todos-rest-api) | Hello Express (WU-E26A) | `main` |
 | [`express-ejs-json-students`](https://github.com/cederdorff/express-ejs-json-students) | JSON-students | `main` |
 | [`express-rest-api-students`](https://github.com/cederdorff/express-rest-api-students) | REST-, arkitektur- og fejlhåndterings-students | Én branch per del |
 | [`my-first-react-app`](https://github.com/cederdorff/my-first-react-app) | RACE 8 · Thinking in React | Én branch per øvelse |
