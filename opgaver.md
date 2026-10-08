@@ -10,7 +10,7 @@ Alle opgaver og øvelser på GitHub, ét forløb ad gangen. Hver række viser, h
 
 *Opdateret 08-10-2026 ud fra opgavetekster, READMEs og branches i `cederdorff/*`. Den fulde liste over alle markdown-filer står i [markdown-filer.md](markdown-filer.md).*
 
-**Forløb:** [WU-E26A](#wu-e26a--1-semester-webudvikling-efterår-2026) · [MDU-E25IXD](#mdu-e25ixd--3-semester-ixd-efterår-2026) · [Figma til React og gestures](#interactive-design-and-development-forår-2026) · [Supabase](#web-app--supabase-forår-2026) · [Movie App](#javascript-movie-app) · [Ældre forløb](#ældre-forløb-2024-2025) · [Repos efter rolle](#repos-efter-rolle)
+**Forløb:** [WU-E26A](#wu-e26a--1-semester-webudvikling-efterår-2026) · [MDU-E25IXD](#mdu-e25ixd--3-semester-ixd-efterår-2026) · [Figma til React og gestures](#interactive-design-and-development-forår-2026) · [Supabase](#web-app--supabase-forår-2026) · [Movie App](#javascript-movie-app) · [Ældre forløb](#ældre-forløb-2024-2025) · [Guides](#guides) · [Repos efter rolle](#repos-efter-rolle)
 
 ---
 
@@ -123,6 +123,7 @@ Varianter: [`react-router-supabase`](https://github.com/cederdorff/react-router-
 | [Dag 3 · Fetch, JSON og genre-filter](https://github.com/cederdorff/js-movie-app/blob/main/_exercises/movie-app-3.md) | Fortsætter | `_solutions/dag3/` |
 | [Dag 4 · Søgning, sortering, dialog og GitHub Pages](https://github.com/cederdorff/js-movie-app/blob/main/_exercises/movie-app-4.md) | Fortsætter | `_solutions/dag4/` og branch [`solution`](https://github.com/cederdorff/js-movie-app/tree/solution) |
 | [Games App · kom godt i gang](https://github.com/cederdorff/js-movie-app/blob/main/_exercises/games-app-guide.md) | — | — |
+| [Emneoversigt](https://github.com/cederdorff/js-movie-app/blob/main/_exercises/emneoversigt.md) (hvilke emner hver dag dækker) | — | — |
 
 [`movie-app`](https://github.com/cederdorff/movie-app) har samme filer som `js-movie-app-template` og er sandsynligvis en ældre kopi.
 
@@ -139,10 +140,31 @@ Varianter: [`react-router-supabase`](https://github.com/cederdorff/react-router-
 | [Implementer TypeScript](https://github.com/cederdorff/next-post-app-2025/blob/main/typescript-migration.md) | `next-post-app-2025` | Branch [`typescript-migration`](https://github.com/cederdorff/next-post-app-2025/tree/typescript-migration) |
 | [Opret React SPA med Vite og React Router](https://github.com/cederdorff/react-vite-spa/blob/main/react-router-spa.md) | — | [`react-vite-spa`](https://github.com/cederdorff/react-vite-spa) |
 | [React SPA · deployment og samarbejde](https://github.com/cederdorff/react-vite-spa/blob/main/deployment-collaboration.md) | [`react-vite-spa`](https://github.com/cederdorff/react-vite-spa) | — |
-| [Chatbot med Express og EJS (ældre øvelse 1–4)](https://github.com/cederdorff/node-express-ejs-client-server-app/tree/main/_exercises) | — | Branches `solve-1_…`, `solve-2_…` og `solve-3_…` i `node-express-ejs-client-server-app`. Øvelse 4 har ingen løsning |
+| [Node Express Message REST API](https://github.com/cederdorff/node-express-message-rest-api/blob/main/node-express-message-rest-api.md) | — | [`node-express-message-rest-api`](https://github.com/cederdorff/node-express-message-rest-api) (`main`). Udvidelser som branches: `feature/chat-endpoints-exercises`, `feature/error-handling-statuscodes`, `feature/filter-sort-paginate`, `filter-search-query`, `feature/cors-examples`, `feature/jwt-auth`, `supabase` |
+| Express og EJS 1 · [Simple Client-Server App](https://github.com/cederdorff/node-express-ejs-client-server-app/blob/main/_exercises/1_Building_a_Simple_Client_Server_App_with_Node_Express_EJS.md) | — | Branch [`solve-1_Building_a_Simple_Client_Server_App_with_Node_Express_EJS-md`](https://github.com/cederdorff/node-express-ejs-client-server-app/tree/solve-1_Building_a_Simple_Client_Server_App_with_Node_Express_EJS-md) |
+| Express og EJS 2 · [Formhåndtering og svarlogik](https://github.com/cederdorff/node-express-ejs-client-server-app/blob/main/_exercises/2_Form_haandtering_og_svar_logik.md) | — | Branch [`solve-2_Form_haandtering_og_svar_logik-md`](https://github.com/cederdorff/node-express-ejs-client-server-app/tree/solve-2_Form_haandtering_og_svar_logik-md) |
+| Express og EJS 3 · [Chatbot med Express og EJS](https://github.com/cederdorff/node-express-ejs-client-server-app/blob/main/_exercises/3_Chatbot_med_Express_og_EJS.md) | — | Branch [`solve-3_Chatbot_med_Express_og_EJS-md`](https://github.com/cederdorff/node-express-ejs-client-server-app/tree/solve-3_Chatbot_med_Express_og_EJS-md) |
+| Express og EJS 4 · [Chatlogik med arrays og objekter](https://github.com/cederdorff/node-express-ejs-client-server-app/blob/main/_exercises/4_Chat_logik_med_arrays_objekter.md) | — | — |
 | Portfolio · [username.github.io](https://github.com/cederdorff/username.github.io/blob/main/README.md) | [`username.github.io`](https://github.com/cederdorff/username.github.io) (GitHub-template) | — |
 
 `post-app-test-frontend` er en kopi af `post-app-with-firebase`, og `web-app-race` er en kopi af `react-vite-spa`. `next-post-app-2025` har også løsnings-branches til `authjs-github-login` og `firebase-authentication`, men der er ingen opgavetekst til dem.
+
+---
+
+## Guides
+
+Vejledninger, som flere forløb bruger. De er ikke opgaver.
+
+| Guide | Ligger i |
+| --- | --- |
+| [Fra template til GitHub Pages](https://github.com/cederdorff/react-router-spa/blob/main/docs/template-to-github-pages-setup.md) | `react-router-spa` (kopi i `react-router-supabase`) |
+| [GitHub Pages uden starter-template](https://github.com/cederdorff/react-router-spa/blob/main/docs/github-pages-setup-without-template.md) | `react-router-spa` |
+| [Samarbejdsguide: Git, branches og Pull Requests](https://github.com/cederdorff/react-router-spa/blob/main/docs/collaboration-guide.md) | `react-router-spa` (kopi i `react-router-supabase`) |
+| [Git og GitHub master-slides](https://github.com/cederdorff/react-router-spa/blob/main/docs/git-github-slides-master.md) og [speaker notes](https://github.com/cederdorff/react-router-spa/blob/main/docs/git-github-slides-master-speaker-notes.md) | `react-router-spa` (kopi i `react-router-supabase`) |
+| [Tjekliste: GitHub Pages, React Router og Supabase](https://github.com/cederdorff/react-router-supabase/blob/main/docs/checklist-github-pages-supabase.md) | `react-router-supabase` |
+| [Supabase setup til Posts](https://github.com/cederdorff/react-router-supabase/blob/main/docs/supabase-setup.md) | `react-router-supabase` |
+| [Hold dit Supabase-projekt i live med GitHub Actions](https://github.com/cederdorff/post-app-supabase/blob/main/docs/supabase-keep-alive.md) | `post-app-supabase` |
+| [Kom i gang med Supabase (Products)](https://github.com/cederdorff/web-app-supabase#readme) | README i `web-app-supabase` og `react-supabase-products(-template)` |
 
 ---
 
@@ -184,6 +206,7 @@ Varianter: [`react-router-supabase`](https://github.com/cederdorff/react-router-
 | [`react-user-cards`](https://github.com/cederdorff/react-user-cards) | Props, State og komponenter | Én branch per trin |
 | [`post-app-with-firebase`](https://github.com/cederdorff/post-app-with-firebase) | React CRUD med Firebase | Én branch per trin |
 | [`next-post-app-2025`](https://github.com/cederdorff/next-post-app-2025) | Tailwind og TypeScript | Branches |
+| [`node-express-message-rest-api`](https://github.com/cederdorff/node-express-message-rest-api) | Message REST API | `main` + udvidelser som branches |
 
 ### Kopier, som kan slettes eller arkiveres
 
@@ -193,3 +216,5 @@ Varianter: [`react-router-supabase`](https://github.com/cederdorff/react-router-
 | `web-app-race` | `react-vite-spa` |
 | `movie-app` | `js-movie-app-template` |
 | `_lessons/` i `react-supabase-products` | `_lessons/` i `web-app-supabase` |
+| `_exercises/express-ejs-json-students.md` i `express-ejs-json-students` | `wu-e26a/opgaver/express-ejs-json-students.md` |
+| `docs/` i `react-router-supabase` (delvist) | `docs/` i `react-router-spa` |
