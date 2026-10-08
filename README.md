@@ -8,6 +8,8 @@ Overblik over Rasmus Cederdorffs (RACE) repositories til undervisning, opgaver o
 
 **Hurtige genveje**
 
+- **[Alle opgaver og øvelser med starter og løsning](opgaver.md)**: én tabel per forløb
+
 - 1. semester Webudvikling (WU-E26A): [alle opgaver](https://github.com/cederdorff/wu-e26a/blob/main/opgaver/README.md) · [forløb og lektioner](https://github.com/cederdorff/wu-e26a#readme) · [slides](https://cederdorff.com/wu-e26a/)
 - 3. semester IxD (MDU-E25IXD): [forløb og lektioner](https://github.com/cederdorff/mdu-e25ixd#readme) · [Case 1](https://github.com/cederdorff/mdu-e25ixd/blob/main/undervisning/product-optimization/case-1-casebrief.md)
 - Dette repo: [fælles data, billeder og slides](#dette-repo-race)
