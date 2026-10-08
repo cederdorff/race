@@ -113,7 +113,7 @@ Lektioner og øvelser ligger i [`web-app-supabase`](https://github.com/cederdorf
 | --- | --- | --- |
 | RACE 8 · [Kom i gang med Supabase (Users)](https://github.com/cederdorff/react-supabase-users/blob/main/README.md) | — | [`react-supabase-users`](https://github.com/cederdorff/react-supabase-users) (også branch `react-router`) |
 | RACE 9 · [Fra Thunder Client til React](https://github.com/cederdorff/web-app-supabase/blob/main/_exercises/race-9-oevelse-thunderclient-til-react.md) | [`react-supabase-products-template`](https://github.com/cederdorff/react-supabase-products-template) | [`react-supabase-products`](https://github.com/cederdorff/react-supabase-products) + inline |
-| RACE 10 · [Post App med Forms og CRUD](https://github.com/cederdorff/web-app-supabase/blob/main/_exercises/race-10-oevelse-post-app-forms-and-crud.md) | [`post-app-supabase-template`](https://github.com/cederdorff/post-app-supabase-template) | [`post-app-supabase`](https://github.com/cederdorff/post-app-supabase) (`main`) |
+| RACE 10 · [Post App med Forms og CRUD](https://github.com/cederdorff/web-app-supabase/blob/main/_exercises/race-10-oevelse-post-app-forms-and-crud.md) | [`post-app-supabase-template`](https://github.com/cederdorff/post-app-supabase-template) | [`post-app-supabase`](https://github.com/cederdorff/post-app-supabase) (`main`). Afsnit 9 · Ekstra udfordringer: branch [`opgave-9-udvidede-losninger`](https://github.com/cederdorff/post-app-supabase/tree/opgave-9-udvidede-losninger) |
 | RACE 11 · [Filter, sort og samarbejde](https://github.com/cederdorff/web-app-supabase/blob/main/_lessons/race-11-filter-sort-collaboration.md) | [`react-router-spa`](https://github.com/cederdorff/react-router-spa) med guides til [GitHub Pages](https://github.com/cederdorff/react-router-spa/blob/main/docs/template-to-github-pages-setup.md) og [samarbejde](https://github.com/cederdorff/react-router-spa/blob/main/docs/collaboration-guide.md) | Branches i `post-app-supabase`: [`filter-server-side`](https://github.com/cederdorff/post-app-supabase/tree/filter-server-side) og [`filter-client-side`](https://github.com/cederdorff/post-app-supabase/tree/filter-client-side) |
 
 Varianter: [`react-router-supabase`](https://github.com/cederdorff/react-router-supabase) er `react-router-spa` med Supabase-guides i `docs/`, og `react-router-spa` har også branchen `supabase-starter`. Opgaveteksten til RACE 10 står også i README'en til `post-app-supabase` og `post-app-supabase-template`.
@@ -133,6 +133,8 @@ Varianter: [`react-router-supabase`](https://github.com/cederdorff/react-router-
 | [Dag 4 · Søgning, sortering, dialog og GitHub Pages](https://github.com/cederdorff/js-movie-app/blob/main/_exercises/movie-app-4.md) | Fortsætter | `_solutions/dag4/` og branch [`solution`](https://github.com/cederdorff/js-movie-app/tree/solution) |
 | [Games App · kom godt i gang](https://github.com/cederdorff/js-movie-app/blob/main/_exercises/games-app-guide.md) | — | — |
 | [Emneoversigt](https://github.com/cederdorff/js-movie-app/blob/main/_exercises/emneoversigt.md) (hvilke emner hver dag dækker) | — | — |
+
+`js-movie-app` har også branches med andre versioner af løsningen: [`part-2`](https://github.com/cederdorff/js-movie-app/tree/part-2), [`part-3`](https://github.com/cederdorff/js-movie-app/tree/part-3), [`simpel-filter-implementation`](https://github.com/cederdorff/js-movie-app/tree/simpel-filter-implementation), [`full-implementation`](https://github.com/cederdorff/js-movie-app/tree/full-implementation) og [`favorites`](https://github.com/cederdorff/js-movie-app/tree/favorites) (favoritter med localStorage).
 
 [`movie-app`](https://github.com/cederdorff/movie-app) har samme filer som `js-movie-app-template` og er sandsynligvis en ældre kopi.
 
@@ -218,6 +220,21 @@ Vejledninger, som flere forløb bruger. De er ikke opgaver.
 | [`post-app-with-firebase`](https://github.com/cederdorff/post-app-with-firebase) | React CRUD med Firebase | Én branch per trin |
 | [`next-post-app-2025`](https://github.com/cederdorff/next-post-app-2025) | Tailwind og TypeScript | Branches |
 | [`node-express-message-rest-api`](https://github.com/cederdorff/node-express-message-rest-api) | Message REST API | `main` + udvidelser som branches |
+
+### Andre branches uden opgavetekst
+
+Disse branches er ikke linket fra nogen opgave eller lektion. De er eksempler fra undervisningen eller ekstra løsninger.
+
+| Repo | Branch | Indhold |
+| --- | --- | --- |
+| `post-app-supabase` | [`error-messages-and-loading-states`](https://github.com/cederdorff/post-app-supabase/tree/error-messages-and-loading-states), [`error-handling-and-ui-states`](https://github.com/cederdorff/post-app-supabase/tree/error-handling-and-ui-states), [`performative-ui`](https://github.com/cederdorff/post-app-supabase/tree/performative-ui) | Fejlhåndtering, loading-states og UI-eksempler (relateret til afsnit 9 i RACE 10) |
+| `express-rest-api-students` | [`data-helpers-import-export`](https://github.com/cederdorff/express-rest-api-students/tree/data-helpers-import-export) | Variant af data-modulet |
+| `node-express-ejs-client-server-app` | [`split-client-server`](https://github.com/cederdorff/node-express-ejs-client-server-app/tree/split-client-server) | Client/server-opdeling (2025, før AMAbot-øvelse 6) |
+| `hello-http-module` | [`get-request-data`](https://github.com/cederdorff/hello-http-module/tree/get-request-data) | Læs request-data (2023) |
+| `next-post-app-2025` | [`tailwind-ui-component-example`](https://github.com/cederdorff/next-post-app-2025/tree/tailwind-ui-component-example), [`authjs-github-login`](https://github.com/cederdorff/next-post-app-2025/tree/authjs-github-login), [`firebase-authentication`](https://github.com/cederdorff/next-post-app-2025/tree/firebase-authentication) | Tailwind-komponenter og login |
+| `react-router-spa` | [`feature/fetch-products-from-json-file`](https://github.com/cederdorff/react-router-spa/tree/feature/fetch-products-from-json-file), [`supabase-starter`](https://github.com/cederdorff/react-router-spa/tree/supabase-starter) | Hent produkter fra JSON-fil, Supabase-starter |
+| `react-vite-spa` | [`component-styles`](https://github.com/cederdorff/react-vite-spa/tree/component-styles), [`component-styles-modules`](https://github.com/cederdorff/react-vite-spa/tree/component-styles-modules) | Styling af komponenter (CSS og CSS Modules) |
+| `project-template` | [`hello-js`](https://github.com/cederdorff/project-template/tree/hello-js), [`new-project-template`](https://github.com/cederdorff/project-template/tree/new-project-template) | Varianter af vanilla-starteren |
 
 ### Kopier, som kan slettes eller arkiveres
 
